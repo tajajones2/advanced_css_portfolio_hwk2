@@ -1,0 +1,29 @@
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+  
+
+section {
+    position: relative;
+    background-color: blueviolet;
+    margin: 100px;
+    
+    
+}
+
+.about {position: absolute;
+        background-color: aquamarine;
+        padding: 20px;
+        border: 20px;
+        margin: 20px;
+
+}
+
+
+
+
