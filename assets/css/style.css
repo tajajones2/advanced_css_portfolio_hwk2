@@ -3,15 +3,16 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    font-size: large ;
+    background-color: darkcyan;
 }
 
 
-  
 
 section {
     position: relative;
     background-color: blueviolet;
-    margin: 100px;
+    margin: 50px;
     
     
 }
@@ -20,10 +21,17 @@ section {
         background-color: aquamarine;
         padding: 20px;
         border: 20px;
-        margin: 20px;
+        margin: 20px 20px 50px;
+        transform: translate(0, -75px);
+        border-radius: 10px;
+
+         
+
+} 
+
+.about-me, p {
+    padding: 20px;
 
 }
-
-
 
 
