@@ -1,11 +1,12 @@
 
-
+/* added font family and weight */
 h1 {
     font-family: Arial, Helvetica, sans-serif;
     font-weight: 100; 
 
 }
 
+/* edit for nav bar */
 nav {
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -20,11 +21,12 @@ header {
 }
 
 
-
+/* added background color for body */
 body {
     background-color: #BEDCFA;
 }
 
+/* added */
 h2 {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-weight: 100;
@@ -43,6 +45,7 @@ h2 {
 
         
 } 
+
 
 /*added class for image*/ 
 .profile {
@@ -111,3 +114,13 @@ footer {
 /* .container address {
     flex-direction: column;
 } */
+
+
+#about, #projects, #contact {
+    position: relative;
+    background-color: #98ACF8;
+    padding: 20px;
+    margin: 50px;
+    border-radius: 60px;
+    /* height: 100px; */
+}
