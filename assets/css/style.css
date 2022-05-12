@@ -4,11 +4,17 @@ header {
     justify-content: space-between;
     align-items: center;
     font-size: large ;
-    background-color: darkcyan;
+    background-color: cornflowerblue;
     padding: 30px;
 }
 
-
+.hero-image {
+    background: rgb (68, 88, 120);
+    background-image: url(https://cdn.pixabay.com/photo/2020/05/07/04/01/digitization-5140071__340.jpg), linear-gradient(270deg, var(--secondary) 0%, var(--primary) 100%);
+    background-size: cover;
+    background-position: center;
+    
+}
 
 /* section {
     position: relative;
@@ -20,10 +26,10 @@ header {
     
 } */
 
-.about, .projects {
+.about, .projects, .contact {
         position: absolute;
         background-color: aquamarine;
-        padding: 20px;
+        padding: 30px;
         border: 20px;
         margin: 20px 20px 50px;
         transform: translate(0, -75px);
@@ -40,22 +46,23 @@ img {
 
 .box-title {
     position: relative;
-    background-color: blueviolet;
+    background-color: cyan;
     padding: 20px;
     margin: 50px;
     /* height: 100px; */
 }
 
 .projects {
-    background-color: darkorange;
+    background-color: aquamarine;
    
 }
 
 
 
 .paragraph {
-    padding: 20px;
-    background-color: coral;
+    padding: 30px;
+    background-color: darkblue;
+    color: white;
     width: 45%;
 
     
@@ -65,4 +72,14 @@ img {
 .container {
     display: flex;
     justify-content: space-evenly;
+}
+
+img {
+    width: 100%;
+    height: 100%
+
+}
+
+.paragraph a {
+    color: white
 }
