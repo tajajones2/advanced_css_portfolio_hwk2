@@ -38,6 +38,11 @@ body {
     border-radius: 50px;
 }
 
+.horiseon {
+    width: 200px;
+    height: 200px;
+}
+
 img {
     width: 100%;
     height: auto;
@@ -84,4 +89,8 @@ consolidated css, added projects to border about and contact class
 footer {
     text-align: center;
     font-weight: bolder;
+}
+
+.container address {
+    flex-direction: column;
 }

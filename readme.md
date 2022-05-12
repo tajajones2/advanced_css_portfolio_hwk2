@@ -1,8 +1,16 @@
-# <Your-Project-Title>
+# Advanced CSS - Portfolio
 
 ## Description
 
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+
+This project will demonstarte building a portfolio age from scratch. 
+
+A portfolio of my work can showcase a set skills and talents while highlighting my strongest work as well as the throught process behind it. 
+
+With this porject I learned how to effectivly apply flexboxes, media queries,
+css varibles.
+
 
 - What was your motivation?
 - Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
