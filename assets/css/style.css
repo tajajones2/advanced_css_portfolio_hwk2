@@ -38,9 +38,11 @@ body {
     border-radius: 50px;
 }
 
-.horiseon {
-    width: 200px;
-    height: 200px;
+.Horiseon {
+    width: 100px;
+    height: auto;
+    float: left;
+    margin-right: 10px;
 }
 
 img {
