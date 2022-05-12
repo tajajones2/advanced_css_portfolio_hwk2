@@ -4,7 +4,7 @@ header {
     justify-content: space-between;
     align-items: center;
     font-size: large ;
-    background-color: cornflowerblue;
+    background-color: #DA9FF9;
     padding: 30px;
 }
 
@@ -26,6 +26,10 @@ header {
     
 } */
 
+body {
+    background-color: #BEDCFA;
+}
+
 .about, .projects, .contact {
         position: absolute;
         background-color: aquamarine;
@@ -46,7 +50,7 @@ img {
 
 .box-title {
     position: relative;
-    background-color: cyan;
+    background-color: #98ACF8;
     padding: 20px;
     margin: 50px;
     /* height: 100px; */
@@ -61,7 +65,7 @@ img {
 
 .paragraph {
     padding: 30px;
-    background-color: darkblue;
+    background-color: #3e1983;
     color: white;
     width: 45%;
 
@@ -74,6 +78,13 @@ img {
     justify-content: space-evenly;
 }
 
+
+.about .container .paragraph img {
+    width: 50px;
+    height: 50px;
+}
+
+
 img {
     width: 100%;
     height: 100%
@@ -82,4 +93,8 @@ img {
 
 .paragraph a {
     color: white
+}
+
+footer {
+    text-align: center;
 }
