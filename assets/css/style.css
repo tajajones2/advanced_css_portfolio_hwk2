@@ -9,19 +9,11 @@ header {
 }
 
 
-/* section {
-    position: relative;
-    background-color: blueviolet;
-    padding: 20px;
-    margin: 50px;
-    height: 65px;
-    
-    
-} */
 
 body {
     background-color: #BEDCFA;
 }
+
 
 .about, .projects, .contact {
         position: absolute;
@@ -31,15 +23,19 @@ body {
         margin: 20px 20px 50px;
         transform: translate(0, -75px);
         border-radius: 10px;
+        box-shadow: -10px -10px;
+        color: #A85CF9;
 
-         
-
+        
 } 
+
+/*added class for image*/ 
 .profile {
     width: 200px;
     height: auto;
     float: left;
     margin-right: 10px;
+    border-radius: 50px;
 }
 
 img {
@@ -52,13 +48,17 @@ img {
     background-color: #98ACF8;
     padding: 20px;
     margin: 50px;
+    border-radius: 60px;
     /* height: 100px; */
 }
 
+
+/* 
+consolidated css, added projects to border about and contact class
 .projects {
     background-color: aquamarine;
    
-}
+} */
 
 
 
@@ -66,9 +66,7 @@ img {
     padding: 30px;
     background-color: #3e1983;
     color: white;
-    width: 45%;
-
-    
+    width: 45%;  
 }
 
 
@@ -85,4 +83,5 @@ img {
 
 footer {
     text-align: center;
+    font-weight: bolder;
 }
