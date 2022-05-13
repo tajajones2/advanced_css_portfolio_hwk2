@@ -21,7 +21,7 @@ header {
 }
 
 
-/* added background color for body */
+/* background color for body */
 body {
     background-color: #BEDCFA;
 }
@@ -47,7 +47,7 @@ h2 {
 } 
 
 
-/*added class for image*/ 
+/* about me image*/ 
 .profile {
     width: 200px;
     height: auto;
@@ -56,13 +56,14 @@ h2 {
     border-radius: 50px;
 }
 
+/* project image */
 .Horiseon {
     width: 100px;
     height: auto;
     float: left;
     margin-right: 10px;
 }
-
+/* placeholder image */
 img {
     width: 100%;
     height: auto;
@@ -101,4 +102,16 @@ footer {
     margin: 50px;
     border-radius: 60px;
 }
+
+/* added git hub link to l1 for contact me */
+
+ul, li {
+    text-align: center;
+    text-decoration: underline;
+    margin: 20px;
+}
+
+
+
+
 
