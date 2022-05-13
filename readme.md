@@ -16,9 +16,9 @@ css varibles.
 - Apllication should deploy Live URL
 - Application loads with no errors
 - GitHub repository contains application code
--
 
-<a href="https://tajajones2.github.io/advanced_css_portfolio_hwk2/"> Click for Live Link!</a>
+
+<a href="https://tajajones2.github.io/advanced_css_portfolio_hwk2/"> Click here for Live Link!</a>
 
 ![alt tag](../challenge2/assets/images/Screenshot%202022-05-12%20224204.png)
 
@@ -27,7 +27,7 @@ css varibles.
 
 ## Credits
 
-I credit myself, Taja Jones, for building brand new portfolio page
+I credit myself, Taja Jones, for building brand new portfolio page.
 
 ## License
 
