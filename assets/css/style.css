@@ -68,25 +68,6 @@ img {
     height: auto;
 }
 
-.box-title {
-    position: relative;
-    background-color: #98ACF8;
-    padding: 20px;
-    margin: 50px;
-    border-radius: 60px;
-    /* height: 100px; */
-}
-
-
-/* 
-consolidated css, added projects to border about and contact class
-.projects {
-    background-color: aquamarine;
-   
-} */
-
-
-
 .paragraph {
     padding: 30px;
     background-color: #3e1983;
@@ -94,6 +75,9 @@ consolidated css, added projects to border about and contact class
     width: 45%;  
 }
 
+.paragraph a {
+    color: white
+}
 
 .container {
     display: flex;
@@ -102,25 +86,19 @@ consolidated css, added projects to border about and contact class
 
 
 
-.paragraph a {
-    color: white
-}
-
 footer {
     text-align: center;
     font-weight: bolder;
 }
 
-/* .container address {
-    flex-direction: column;
-} */
 
 
+/* new ids added to link nav links */
 #about, #projects, #contact {
     position: relative;
     background-color: #98ACF8;
     padding: 20px;
     margin: 50px;
     border-radius: 60px;
-    /* height: 100px; */
 }
+
