@@ -20,7 +20,7 @@ css varibles.
 
 <a href="https://tajajones2.github.io/advanced_css_portfolio_hwk2/"> Click here for Live Link!</a>
 
-![alt tag](../challenge2/assets/images/Screenshot%202022-05-12%20224204.png)
+![alt tag](./assets/images/Screenshot%202022-05-12%20224204.png)
 
 
 
