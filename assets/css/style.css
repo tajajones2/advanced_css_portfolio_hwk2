@@ -123,5 +123,35 @@ ul, li {
     background-color: brown;
 }
 
+@media screen and (max-width: 700px){
+    .container {
+        flex-direction: column;
+        width: 100%;
+        margin: 0;
+        align-items: center;
+    }
+    .paragraph {
+        width: 90%;
+    
+    }
+    header {
+        flex-direction: column;
+        
+    }
 
+    nav {
+        display: flex;
+        flex-direction: column;
+
+    }
+
+    nav a {
+        margin-bottom: 10px;
+
+    }
+
+    h1 {
+        margin-bottom: 15px;
+    }
+}
 
